@@ -100,7 +100,7 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 | Car (3D Detection)    | 91.38% | 84.85%   | 80.39% |
 | Car (Bird Eye View)   | 95.54% | 91.60%   | 88.95% |
 
-3D Predicted labels are avialable from the above Google
+
 
 
 ## Acknowledgements
