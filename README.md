@@ -15,7 +15,7 @@ Knowledge Distillation with Adaptive Representation Encoding for Multi-Modal 3D 
 
 # 🖥️ Environment Setup
 
-- Linux (tested on Ubuntu 22.04)
+- Linux (tested on Ubuntu 22.04) (GPU 3080TI, 3090TI)
 - Python 3.8
 - PyTorch 1.10 + CUDA 11.3
 
