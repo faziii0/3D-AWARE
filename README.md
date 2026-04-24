@@ -51,7 +51,9 @@ sh build_and_install.sh
 ## Depth Images
 We use [MiDaS](https://github.com/isl-org/MiDaS) pretrained model to covert image_2 into depth images or download it from here Google. You can clone their repo and run this command
 bash
-python run.py --model_type dpt_beit_large_512 --input_path image_2 --output_path depth
+python run.py --model_type dpt_beit_large_512 --input_path image_2 --output_path depth     OR
+Get it from goole drive 
+wget https://drive.google.com/file/d/1PT-5CQcIerkGnN_dJLI-ml5O8ectMfgf/view?usp=drive_link
 
 ---
 
@@ -70,13 +72,13 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 │   │   │   │   ├── velodyne
 │   │   │   │   ├── label_2
 │   │   │   │   ├── image_2
-│   │   │   │   ├── depth
+│   │   │   │   ├── mono_depth
 │   │   │   │   ├── train_mask
 │   │   │   ├── testing
 │   │   │   │   ├── calib
 │   │   │   │   ├── velodyne
 │   │   │   │   ├── image_2
-│   │   │   │   ├── depth
+│   │   │   │   ├── mono_depth
 ├── lib
 ├── pointdep_lirad
 ├── tools
