@@ -47,7 +47,7 @@ python -c "import torch; print(torch.cuda.is_available())"
 ```
 sh build_and_install.sh
 ```
-
+---
 # Depth Images
 We use [MiDaS](https://github.com/isl-org/MiDaS) pretrained model to covert image_2 into depth images or download it from here Google. You can clone their repo and run this command
 bash
