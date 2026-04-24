@@ -22,30 +22,31 @@ Knowledge Distillation with Adaptive Representation Encoding for Multi-Modal 3D 
 ---
 
 # ⚙️ Installation
-To deploy this project, run:
+1.To deploy this project, run:
 ```
 git clone [https://github.com/faziii0/3D-AWARE]
 cd 3D-AWARE
 ```
 ---
-
+2.Create New Environment using Anaconda or Python
 ```
 conda create -n luminet python=3.8
 conda activate luminet
 
 conda install pytorch=1.10.0 torchvision=0.11.0 torchaudio=0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 conda install -c conda-forge cudatoolkit-dev
+pip install -r requirements.txt
 ```
 ---
-Check CUDA availability.
+3.Check CUDA availability.
 ```
 python -c "import torch; print(torch.cuda.is_available())"
 ```
 ---
-
-pip install -r requirements.txt
+4.Build and install the  libraries
+```
 sh build_and_install.sh
-
+```
 
 ## Depth Images
 We use [MiDaS](https://github.com/isl-org/MiDaS) pretrained model to covert image_2 into depth images or download it from here Google. You can clone their repo and run this command
