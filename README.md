@@ -83,12 +83,12 @@ LumiNet
 
 
 
-
-| Objects | Easy|Moderate     | Hard                   | 
-| :-------- | :------- | :----------- | :----------|
-| Car | 91.76% | 83.32% | 78.29%
-| Pedestrian | 53.54% | 45.26% | 41.55%
-| Cyclist | 80.43% | 62.31% | 55.72%
+| Task                  | Easy   | Moderate | Hard   |
+| :-------------------- | :----- | :------- | :----- |
+| Car (Detection)       | 98.69% | 95.52%   | 92.93% |
+| Car (Orientation)     | 98.68% | 95.40%   | 92.74% |
+| Car (3D Detection)    | 91.38% | 84.85%   | 80.39% |
+| Car (Bird Eye View)   | 95.54% | 91.60%   | 88.95% |
 
 3D Predicted labels are avialable from the above Google
 
