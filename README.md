@@ -98,3 +98,27 @@ LumiNet
  Thanks to all the contributors and authors of the project [PointRCNN](https://github.com/sshaoshuai/PointRCNN), [EPNet++](https://github.com/happinesslz/EPNetV2), [EPNet](https://github.com/happinesslz/EPNet),[MiDaS](https://github.com/isl-org/MiDaS)
 
 ## Citation
+
+@article{liu2022epnet++,
+  title={EPNet++: Cascade bi-directional fusion for multi-modal 3D object detection},
+  author={Liu, Zhe and Huang, Tengteng and Li, Bingling and Chen, Xiwu and Wang, Xi and Bai, Xiang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{Huang2020EPNetEP,
+  title={EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection},
+  author={Tengteng Huang and Zhe Liu and Xiwu Chen and Xiang Bai},
+  booktitle ={ECCV},
+  month = {July},
+  year={2020}
+}
+
+@InProceedings{Shi_2019_CVPR,
+    author = {Shi, Shaoshuai and Wang, Xiaogang and Li, Hongsheng},
+    title = {PointRCNN: 3D Object Proposal Generation and Detection From Point Cloud},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019}
+}
