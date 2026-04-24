@@ -98,7 +98,9 @@ LumiNet
  Thanks to all the contributors and authors of the project [PointRCNN](https://github.com/sshaoshuai/PointRCNN), [EPNet++](https://github.com/happinesslz/EPNetV2), [EPNet](https://github.com/happinesslz/EPNet),[MiDaS](https://github.com/isl-org/MiDaS)
 
 ## Citation
+---
 
+```bibtex
 @article{liu2022epnet++,
   title={EPNet++: Cascade bi-directional fusion for multi-modal 3D object detection},
   author={Liu, Zhe and Huang, Tengteng and Li, Bingling and Chen, Xiwu and Wang, Xi and Bai, Xiang},
