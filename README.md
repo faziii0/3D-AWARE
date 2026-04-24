@@ -29,7 +29,7 @@ To deploy this project, run:
 git clone [https://github.com/faziii0/3D-AWARE]
 cd 3D-AWARE
 
-
+---
 
 
 conda create -n luminet python=3.8
