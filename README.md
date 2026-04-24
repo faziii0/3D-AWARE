@@ -8,7 +8,7 @@ Knowledge Distillation with Adaptive Representation Encoding for Multi-Modal 3D 
 
 ## Method Overview
 
-![Fusion-new drawio](3D-AWARE.png))
+![Fusion-new drawio](3D-AWARE.png)
 
 ---
 
