@@ -50,8 +50,9 @@ sh build_and_install.sh
 ---
 # Depth Images
 We use [MiDaS](https://github.com/isl-org/MiDaS) pretrained model to covert image_2 into depth images or download it from here Google. You can clone their repo and run this command
-bash
-python run.py --model_type dpt_beit_large_512 --input_path image_2 --output_path depth   
+```
+python run.py --model_type dpt_beit_large_512 --input_path image_2 --output_path depth
+```
 ---
 You can also download depth images from goole drive
 ```
