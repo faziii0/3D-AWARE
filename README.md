@@ -22,22 +22,20 @@ Knowledge Distillation with Adaptive Representation Encoding for Multi-Modal 3D 
 ---
 
 # ⚙️ Installation
-```
 To deploy this project, run:
-
-
+```
 git clone [https://github.com/faziii0/3D-AWARE]
 cd 3D-AWARE
 ```
 ---
 
-
+```
 conda create -n luminet python=3.8
 conda activate luminet
 
 conda install pytorch=1.10.0 torchvision=0.11.0 torchaudio=0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 conda install -c conda-forge cudatoolkit-dev
-
+```
 pip install -r requirements.txt
 sh build_and_install.sh
 
