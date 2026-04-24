@@ -53,7 +53,7 @@ We use [MiDaS](https://github.com/isl-org/MiDaS) pretrained model to covert imag
 bash
 python run.py --model_type dpt_beit_large_512 --input_path image_2 --output_path depth     OR
 Get it from goole drive 
-wget https://drive.google.com/file/d/1PT-5CQcIerkGnN_dJLI-ml5O8ectMfgf/view?usp=drive_link
+wget [https://drive.google.com/file/d/1PT-5CQcIerkGnN_dJLI-ml5O8ectMfgf/view?usp=drive_link]
 
 ---
 
