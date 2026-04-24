@@ -36,6 +36,13 @@ conda activate luminet
 conda install pytorch=1.10.0 torchvision=0.11.0 torchaudio=0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 conda install -c conda-forge cudatoolkit-dev
 ```
+---
+Check CUDA availability.
+```
+python -c "import torch; print(torch.cuda.is_available())"
+```
+---
+
 pip install -r requirements.txt
 sh build_and_install.sh
 
