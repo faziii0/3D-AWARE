@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pandaset
+Version: 0.3.dev0
+Author: Nisse Knudsen, Pengchuan Xiao
+Author-email: nisse@scale.com, xiaopengchuan_intern@hesaitech.com
+Requires-Python: >=3.6
+
+Pandaset Devkit for Python3
