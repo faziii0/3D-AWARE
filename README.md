@@ -23,7 +23,7 @@ Knowledge Distillation with Adaptive Representation Encoding for Multi-Modal 3D 
 # ⚙️ Installation
 1.To deploy this project, run:
 ```
-git clone [https://github.com/faziii0/3D-AWARE]
+git clone https://github.com/faziii0/3D-AWARE
 cd 3D-AWARE
 ```
 ---
