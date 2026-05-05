@@ -69,7 +69,7 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 
 wget https://drive.google.com/file/d/1toB6OvOaEQ8RHjGEMCGABpXe5rnCYLrT/view?usp=sharing
 ```
-
+---
 3D-AWARE
 ├── data
 │   ├── KITTI
