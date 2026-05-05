@@ -86,7 +86,7 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 │   │   │   │   ├── image_2
 │   │   │   │   ├── mono_depth
 ├── lib
-├── pointdep_lirad
+├── pointnet2_lib
 ├── tools
 
 ```
