@@ -86,7 +86,10 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 ├── tools
 
 ```
-
+# 📦 Teacher Weights
+```
+wget https://drive.google.com/file/d/1toB6OvOaEQ8RHjGEMCGABpXe5rnCYLrT/view?usp=sharing
+```
 
 ## Trained Model Evaluation
 
