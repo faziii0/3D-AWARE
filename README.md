@@ -59,17 +59,15 @@ wget https://drive.google.com/file/d/1PT-5CQcIerkGnN_dJLI-ml5O8ectMfgf/view?usp=
 ```
 ---
 
-# 📚 Dataset Preparation
-```
-Please download the official [KITTI 3D object detection](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset and  train mask from [Epnet++](https://github.com/happinesslz/EPNetV2)
-```
-
-
 # 📦 Teacher Weights
 ```
 wget https://drive.google.com/file/d/1toB6OvOaEQ8RHjGEMCGABpXe5rnCYLrT/view?usp=sharing
 ```
----
+
+# 📚 Dataset Preparation
+```
+Please download the official [KITTI 3D object detection](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset and  train mask from [Epnet++](https://github.com/happinesslz/EPNetV2)
+```
 3D-AWARE
 ├── data
 │   ├── KITTI
