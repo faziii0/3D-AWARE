@@ -124,6 +124,13 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
   publisher={IEEE}
 }
 
+@article{birkl2023midas,
+      title={MiDaS v3.1 -- A Model Zoo for Robust Monocular Relative Depth Estimation},
+      author={Reiner Birkl and Diana Wofk and Matthias M{\"u}ller},
+      journal={arXiv preprint arXiv:2307.14460},
+      year={2023}
+}
+
 @article{Huang2020EPNetEP,
   title={EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection},
   author={Tengteng Huang and Zhe Liu and Xiwu Chen and Xiang Bai},
