@@ -29,8 +29,8 @@ cd 3D-AWARE
 ---
 2.Create New Environment using Anaconda or Python
 ```
-conda create -n luminet python=3.8
-conda activate luminet
+conda create -n 3DAWARE python=3.8
+conda activate 3DAWARE
 
 conda install pytorch=1.10.0 torchvision=0.11.0 torchaudio=0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 conda install -c conda-forge cudatoolkit-dev
