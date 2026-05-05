@@ -66,7 +66,7 @@ wget https://drive.google.com/file/d/1toB6OvOaEQ8RHjGEMCGABpXe5rnCYLrT/view?usp=
 
 # 📚 Dataset Preparation
 
-Please download the official [KITTI 3D object detection](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) and [Pandaset] (https://pandaset-git-master.scaleai1.vercel.app/) datasets and  train mask from [Epnet++](https://github.com/happinesslz/EPNetV2)
+Please download the official [KITTI 3D object detection](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) and [Pandaset](https://pandaset-git-master.scaleai1.vercel.app) datasets and  train mask from [Epnet++](https://github.com/happinesslz/EPNetV2)
 ```
 3D-AWARE
 ├── data
