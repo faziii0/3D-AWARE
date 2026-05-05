@@ -89,8 +89,8 @@ Please download the official [KITTI 3D object detection](https://www.cvlibs.net/
 ├── pointnet2_lib
 ├── tools
 
+For Pandaset Dataset use pandaset-devkit-master and convert it to Kitti format and also use vis.py for visualisation
 ```
-
 ---
 
 # 📊 Trained Model Evaluation
